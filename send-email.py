@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from email.message import EmailMessage
 from password import password
 import ssl
